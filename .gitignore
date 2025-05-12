@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+
+# Python cache files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Data and output folders
+
+embeddings/
+vector_db/
+logs/
+
+# Environment files
+*.env
+*.bak
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE or Editor folders
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
